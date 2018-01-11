@@ -1,6 +1,4 @@
-//Florian Malaj
-//Arthkumar Desai
-//cs214 proj0
+
 
 typedef struct records {
 	char*color;
